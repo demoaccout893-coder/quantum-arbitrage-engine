@@ -1,0 +1,11 @@
+fastapi
+sqlalchemy
+ccxt
+redis
+cryptography
+websockets
+numpy
+pandas
+requests
+uvicorn
+pydantic
